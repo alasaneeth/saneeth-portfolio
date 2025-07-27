@@ -12,11 +12,13 @@ const About = () => {
           of experience delivering dynamic and scalable web applications. I'm proficient in modern frontend
           and backend technologies including <span className="text-indigo-600 font-medium">React.js</span>,
           <span className="text-indigo-600 font-medium"> Node.js</span>, 
-          <span className="text-indigo-600 font-medium"> Laravel</span>, and 
-          <span className="text-indigo-600 font-medium"> MySQL</span>.
+          <span className="text-indigo-600 font-medium"> Laravel</span>,
+          <span className="text-indigo-600 font-medium"> ASP.Net </span>
+           and 
+          <span className="text-indigo-600 font-medium"> MySQL/MSSQL</span>.
         </p>
         <p className="text-base text-gray-600 leading-relaxed mb-4">
-          I’m adept at building RESTful APIs, implementing responsive UIs with Tailwind CSS and Material UI, 
+          I’m adept at building RESTful APIs and Web APIs implementing responsive UIs with Tailwind CSS and Material UI, 
           and deploying containerized applications using Docker. I also have hands-on experience with AWS 
           services like EC2, S3, RDS, and CloudWatch, as well as automating CI/CD pipelines using GitHub Actions.
         </p>
