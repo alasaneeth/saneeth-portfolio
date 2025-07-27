@@ -1,6 +1,5 @@
 import heroImage from "../../assets/images/Hero.jpg";
 import { FaGithub, FaLinkedin, FaWhatsapp } from "react-icons/fa";
-import ResumeButton from './ResumeButton';
 
 const Hero = () => {
   return (
