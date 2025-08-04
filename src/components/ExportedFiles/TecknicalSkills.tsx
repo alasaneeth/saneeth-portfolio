@@ -18,7 +18,7 @@ import {
   SiGit,
   SiGithub,
 } from "react-icons/si";
-import { FaJava, FaAws, FaDatabase,FaDocker } from "react-icons/fa"; // Java, AWS fallback
+import { FaJava, FaAws, FaDatabase,FaDocker, FaAngular } from "react-icons/fa"; // Java, AWS fallback
 import { MdDesignServices } from "react-icons/md"; // Material Design icons
 import { TbBrandCSharp } from "react-icons/tb";
 
@@ -37,7 +37,7 @@ export const TECHNICAL_SKILLS = [
   { icon: <SiDotnet className="text-purple-500" />, label: "ASP.NET" },
   { icon: <SiReact className="text-cyan-400" />, label: "React.js" },
    //{ icon: <FaVuejs className="text-green-800" />, label: "Vue.js" },
-  // { icon: <FaAngular className="text-red-800" />, label: "Angular.js" },
+  { icon: <FaAngular className="text-red-800" />, label: "Angular" },
   { icon: <SiNodedotjs className="text-green-600" />, label: "Node.js" },
   { icon: <SiExpress className="text-black" />, label: "Express.js" },
   { icon: <SiPhp className="text-indigo-500" />, label: "PHP" },
