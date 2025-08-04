@@ -1,5 +1,6 @@
 import heroImage from "../../assets/images/Hero.jpg";
 import { FaGithub, FaLinkedin, FaWhatsapp } from "react-icons/fa";
+import Leetcode from "../../assets/images/leetcode.png"
 
 const Hero = () => {
   return (
@@ -40,6 +41,13 @@ const Hero = () => {
             className="text-green-800 hover:text-green-900 text-2xl !text-green-800"
           >
             <FaWhatsapp />
+          </a>
+          <a
+            href="https://leetcode.com/u/elbnowGTSc/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <img src={Leetcode} alt="leetCode"/>
           </a>
         </div>
         {/* <div>
