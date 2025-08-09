@@ -25,7 +25,7 @@ const ContactUs: React.FC = () => {
   };
 
   return (
-    <section className="bg-gray-100 text-gray-800 py-10 px-4">
+    <section id='contacts' className="bg-gray-100 text-gray-800 py-10 px-4">
       <div className="max-w-6xl mx-auto grid md:grid-cols-2 gap-8 items-start">
         {/* Left: Contact Form */}
         <div className="bg-white p-6 rounded-2xl shadow-md">

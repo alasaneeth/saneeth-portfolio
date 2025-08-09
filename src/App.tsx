@@ -2,7 +2,6 @@ import Header from './components/Pages/Header'
 import "./App.css"
 import Hero from './components/Pages/Hero'
 import About from './components/Pages/About'
-import Projects from './components/Pages/Projects'
 import TechincalSkills from './components/Pages/TechincalSkills'
 import SoftSkills from './components/Pages/SoftSkills'
 import Services from './components/Pages/Service'
@@ -17,7 +16,7 @@ function App() {
       <Header/>
       <Hero/>
       <About/>
-      <Projects/>
+      {/* <Projects/> */}
       <TechincalSkills/>
       <SoftSkills/>
       <Services/>

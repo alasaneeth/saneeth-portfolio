@@ -14,10 +14,10 @@ const Header = () => {
       <ul className="hidden md:flex gap-6 text-white font-medium">
         <li><a href="#home">HOME</a></li>
         <li><a href="#about">ABOUT</a></li>
-        <li><a href="#projects">PROJECTS</a></li>
+        {/* <li><a href="#projects">PROJECTS</a></li> */}
         <li><a href="#techncalSckills">TECKNICAL SKILLS</a></li>
         <li><a href="#softSkills">SOFT SKILLS</a></li>
-        {/* <li><a href="#services">SERVICES</a></li> */}
+        <li><a href="#services">SERVICES</a></li>
         <li><a href="#contacts">CONTACTS</a></li>
       </ul>
 
@@ -36,10 +36,10 @@ const Header = () => {
           <ul className="flex flex-col items-center gap-4 py-6 text-white font-medium">
             <li><a href="#home" onClick={toggleMenu}>HOME</a></li>
             <li><a href="#about" onClick={toggleMenu}>ABOUT</a></li>
-            <li><a href="#projects" onClick={toggleMenu}>PROJECTS</a></li>
+            {/* <li><a href="#projects" onClick={toggleMenu}>PROJECTS</a></li> */}
             <li><a href="#techncalSckills"  onClick={toggleMenu}>TECKNICAL SKILLS</a></li>
             <li><a href="#techncalSckills"  onClick={toggleMenu}>SOFT SKILLS</a></li>
-            {/* <li><a href="#techncalSckills"  onClick={toggleMenu}>SERVICES</a></li> */}
+            <li><a href="#techncalSckills"  onClick={toggleMenu}>SERVICES</a></li>
             <li><a href="#contacts" onClick={toggleMenu}>CONTACTS</a></li>
           </ul>
         </div>
