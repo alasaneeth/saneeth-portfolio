@@ -8,20 +8,21 @@ const About = () => {
           About <span className="text-indigo-600">Me</span>
         </h2>
         <p className="text-lg md:text-xl text-gray-700 leading-relaxed mb-6">
-          I'm <strong>Saneeth</strong>, a highly motivated Full Stack Software Engineer with over 2 years
+          I'm <strong>Saneeth</strong>, a highly motivated Full Stack Software Engineer 3 years
           of experience delivering dynamic and scalable web applications. I'm proficient in modern frontend
           and backend technologies including <span className="text-indigo-600 font-medium">React.js</span>,
-          <span className="text-indigo-600 font-medium"> Node.js</span>, 
-          <span className="text-indigo-600 font-medium"> Laravel</span>,
+         
           <span className="text-indigo-600 font-medium"> ASP.Net </span>
            and 
-          <span className="text-indigo-600 font-medium"> MySQL/MSSQL</span>.
+          <span className="text-indigo-600 font-medium"> MSSQL</span>.
         </p>
         <p className="text-base text-gray-600 leading-relaxed mb-4">
-          I’m adept at building RESTful APIs and Web APIs implementing responsive UIs with Tailwind CSS and Material UI, 
-          and deploying containerized applications using Docker. I also have hands-on experience with AWS 
-          services like EC2, S3, RDS, and CloudWatch, as well as automating CI/CD pipelines using GitHub Actions.
+          I’m adept at building RESTful APIs and Web APIs, implementing responsive UIs with Tailwind CSS and Material UI, 
+          and deploying containerized applications using Docker. I also have hands-on experience with Microsoft Azure 
+          services like Azure App Service, Azure Storage, Azure SQL Database, and Azure Monitor, as well as automating CI/CD 
+          pipelines using GitHub Actions.
         </p>
+
         <p className="text-base text-gray-600 leading-relaxed mb-6">
           With a strong understanding of MVC architecture, agile methodologies, and cross-functional 
           collaboration, I take pride in analyzing requirements, debugging complex issues, and delivering 
