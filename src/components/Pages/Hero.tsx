@@ -1,7 +1,7 @@
 import heroImage from "../../assets/images/Hero.jpg";
 import { FaGithub, FaLinkedin, FaWhatsapp } from "react-icons/fa";
-//import Leetcode from "../../assets/images/leetcode.png"
 import HackerRank from "../../assets/images/hackerRank.png"
+import Microsoft from "../../assets/images/microsoft.png"
 
 const Hero = () => {
   return (
@@ -50,6 +50,14 @@ const Hero = () => {
           >
             <img height={25} width={25} src={HackerRank} alt="hackerRank"/>
           </a> 
+            <a
+            href="https://learn.microsoft.com/en-us/users/aasifsaneeth-5418/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <img height={25} width={25} src={Microsoft} alt="hackerRank"/>
+     
+        </a> 
         </div>
         {/* <div>
           <ResumeButton/>
