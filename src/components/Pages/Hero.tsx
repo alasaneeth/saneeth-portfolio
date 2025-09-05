@@ -1,6 +1,7 @@
 import heroImage from "../../assets/images/Hero.jpg";
 import { FaGithub, FaLinkedin, FaWhatsapp } from "react-icons/fa";
 //import Leetcode from "../../assets/images/leetcode.png"
+import HackerRank from "../../assets/images/hackerRank.png"
 
 const Hero = () => {
   return (
@@ -42,13 +43,13 @@ const Hero = () => {
           >
             <FaWhatsapp />
           </a>
-          {/* <a
-            href="https://leetcode.com/u/elbnowGTSc/"
+          <a
+            href="https://www.hackerrank.com/profile/alasaneeth22"
             target="_blank"
             rel="noopener noreferrer"
           >
-            <img src={Leetcode} alt="leetCode"/>
-          </a> */}
+            <img height={25} width={25} src={HackerRank} alt="hackerRank"/>
+          </a> 
         </div>
         {/* <div>
           <ResumeButton/>
