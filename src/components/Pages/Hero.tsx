@@ -23,7 +23,7 @@ const Hero = () => {
             href="https://github.com/alasaneeth"
             target="_blank"
             rel="noopener noreferrer"
-            className="text-black hover:text-black text-2xl"
+           className="text-black hover:text-black text-2xl transform transition-transform duration-300 hover:scale-150"
           >
             <FaGithub />
           </a>
@@ -31,7 +31,7 @@ const Hero = () => {
             href="https://www.linkedin.com/in/aasif-saneeth-bin-abdul-latheef/"
             target="_blank"
             rel="noopener noreferrer"
-            className="text-blue-700 hover:text-blue-900 text-2xl"
+            className="text-blue-700 hover:text-blue-900 text-2xl transform transition-transform duration-300 hover:scale-150"
           >
             <FaLinkedin />
           </a>
@@ -39,7 +39,7 @@ const Hero = () => {
             href="https://wa.me/+94740822580"
             target="_blank"
             rel="noopener noreferrer"
-            className="text-green-800 hover:text-green-900 text-2xl !text-green-800"
+            className="text-green-800 hover:text-green-900 text-2xl !text-green-800 transform transition-transform duration-300 hover:scale-150"
           >
             <FaWhatsapp />
           </a>
@@ -48,20 +48,20 @@ const Hero = () => {
             target="_blank"
             rel="noopener noreferrer"
           >
-            <img height={25} width={25} src={HackerRank} alt="hackerRank"/>
+            <img className="transform transition-transform duration-300 hover:scale-150" height={25} width={25} src={HackerRank} alt="hackerRank"/>
           </a> 
             <a
             href="https://learn.microsoft.com/en-us/users/aasifsaneeth-5418/"
             target="_blank"
             rel="noopener noreferrer"
           >
-            <img height={25} width={25} src={Microsoft} alt="hackerRank"/>
+            <img className="transform transition-transform duration-300 hover:scale-150" height={25} width={25} src={Microsoft} alt="hackerRank"/>
      
         </a> 
         </div>
         {/* <div>
           <ResumeButton/>
-        </div> */}
+        </div> */} 
       </div>
 
       {/* Hero Image */}
