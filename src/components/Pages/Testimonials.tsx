@@ -43,6 +43,11 @@ export default function TestimonialCarousel() {
 
   return (
     <div id="testimonials" className="max-w-2xl sm:max-w-3xl md:max-w-5xl mx-auto py-10 px-4">
+        <div className="text-center mb-12">
+            <h2 className="text-3xl sm:text-4xl font-bold text-gray-900 mb-4">
+              Testimonials 
+          </h2>
+        </div>
       <div
         className="relative overflow-hidden rounded-xl shadow-lg bg-white"
         onTouchStart={handleTouchStart}
