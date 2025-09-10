@@ -17,6 +17,7 @@ const Header = () => {
         {/* <li><a href="#projects">PROJECTS</a></li> */}
         <li><a href="#techncalSckills">TECKNICAL SKILLS</a></li>
         <li><a href="#softSkills">SOFT SKILLS</a></li>
+        <li><a href="#certifications">CERTIFICATIONS</a></li>
         <li><a href="#services">SERVICES</a></li>
         <li><a href="#testimonials">TESTIMONIALS</a></li>
         <li><a href="#contacts">CONTACTS</a></li>
@@ -39,8 +40,9 @@ const Header = () => {
             <li><a href="#about" onClick={toggleMenu}>ABOUT</a></li>
             {/* <li><a href="#projects" onClick={toggleMenu}>PROJECTS</a></li> */}
             <li><a href="#techncalSckills"  onClick={toggleMenu}>TECKNICAL SKILLS</a></li>
-            <li><a href="#techncalSckills"  onClick={toggleMenu}>SOFT SKILLS</a></li>
-            <li><a href="#techncalSckills"  onClick={toggleMenu}>SERVICES</a></li>
+            <li><a href="#softSkills"  onClick={toggleMenu}>SOFT SKILLS</a></li>
+            <li><a href="#certifications"  onClick={toggleMenu}>CERTIFICATIONS</a></li>
+            <li><a href="#services"  onClick={toggleMenu}>SERVICES</a></li>
             <li><a href="#testimonials"  onClick={toggleMenu}>TESTIMONIALS</a></li>
             <li><a href="#contacts" onClick={toggleMenu}>CONTACTS</a></li>
           </ul>
