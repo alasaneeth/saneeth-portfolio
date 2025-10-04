@@ -13,7 +13,7 @@ const Hero = () => {
         </h1>
         <p className="text-xl md:text-2xl text-gray-700 mb-6">
           <span className="inline-block animate-typing overflow-hidden whitespace-nowrap border-r-4 border-gray-500 pr-5">
-            Full-Stack Software Engineer
+            Software Engineer
           </span>
         </p>
 

@@ -8,7 +8,7 @@ const About = () => {
           About <span className="text-indigo-600">Me</span>
         </h2>
         <p className="text-lg md:text-xl text-gray-700 leading-relaxed mb-6">
-          I'm <strong>Saneeth</strong>, a highly motivated Full Stack Software Engineer 3 years
+          I'm <strong>Saneeth</strong>, a highly motivated Software Engineer 3 years
           of experience delivering dynamic and scalable web applications. I'm proficient in modern frontend
           and backend technologies including <span className="text-indigo-600 font-medium">React.js</span>,
          
