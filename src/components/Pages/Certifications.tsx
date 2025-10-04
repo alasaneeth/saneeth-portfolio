@@ -2,7 +2,7 @@ import { CERTIFICATIONS } from "../ExportedFiles/Certifications";
 
 const Certifications = () => {
   return (
-    <section className="w-full py-12 bg-white">
+    <section id="certifications" className="w-full py-12 bg-white">
       <h2 className="mx-4 text-xl md:text-2xl font-semibold text-gray-800 text-center mb-12">
         Certifications and Badges
       </h2>
