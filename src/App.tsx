@@ -7,7 +7,6 @@ import SoftSkills from './components/Pages/SoftSkills'
 // import Services from './components/Pages/Service'
 import Contact from './components/Pages/Contact'
 import Footer from './components/Pages/Footer'
-import Testimonial from './components/Pages/Testimonials'
 import Certifications from './components/Pages/Certifications'
 
 
