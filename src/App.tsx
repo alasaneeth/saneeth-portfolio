@@ -23,7 +23,7 @@ function App() {
       <SoftSkills/>
       <Certifications/>
       {/* <Services/> */}
-      <Testimonial/>
+      {/* <Testimonial/> */}
       <Contact/>
       <Footer/>
 
