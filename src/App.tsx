@@ -18,7 +18,6 @@ function App() {
       <Header/>
       <Hero/>
       <About/>
-      {/* <Projects/> */}
       <TechincalSkills/>
       <SoftSkills/>
       <Certifications/>
@@ -26,7 +25,6 @@ function App() {
       <Testimonial/>
       <Contact/>
       <Footer/>
-
     </div>
   )
 }

@@ -22,51 +22,6 @@ export const CERTIFICATIONS = [
         logo: microsoft,
         url: "https://learn.microsoft.com/en-us/users/aasifsaneeth-5418/achievements/xqu8kdcy",
       },
-      {
-        title: "Branch the flow of code using the switch-case construct in C#",
-        logo: microsoft,
-        url: "https://learn.microsoft.com/en-us/users/aasifsaneeth-5418/achievements/yef72hpr",
-      },
-      {
-        title: "Add decision logic to your code using if, else, and else if statements in C#",
-        logo: microsoft,
-        url: "https://learn.microsoft.com/en-us/users/aasifsaneeth-5418/achievements/7kywgcgz",
-      },
-      {
-        title: "Call methods from the .NET Class Library using C#",
-        logo: microsoft,
-        url: "https://learn.microsoft.com/en-us/users/aasifsaneeth-5418/achievements/h79lvx78",
-      },
-      {
-        title: "Store and iterate through sequences of data using Arrays and the foreach statement in C#",
-        logo: microsoft,
-        url: "https://learn.microsoft.com/api/achievements/share/en-us/AasifSaneeth-5418/8ZUS2BZW?sharingId=95C0CC75F5920A85",
-      },
-      {
-        title: "Get started with classes and objects",
-        logo: microsoft,
-        url: "https://learn.microsoft.com/api/achievements/share/en-us/AasifSaneeth-5418/E575R3CP?sharingId=95C0CC75F5920A85",
-      },
-      {
-        title: "Guided project - Calculate and print student grades",
-        logo: microsoft,
-        url: "https://learn.microsoft.com/en-us/users/aasifsaneeth-5418/achievements/k624gthb",
-      },
-      {
-        title: "Perform basic string formatting in C#",
-        logo: microsoft,
-        url: "https://learn.microsoft.com/en-us/users/aasifsaneeth-5418/achievements/ur5w7ls3",
-      },
-      {
-        title: "Store and retrieve data using literal and variable values in C#",
-        logo: microsoft,
-        url: "https://learn.microsoft.com/en-us/users/aasifsaneeth-5418/achievements/xqu8kdcy",
-      },
-      {
-        title: "Write your first C# code",
-        logo: microsoft,
-        url: "https://learn.microsoft.com/en-us/users/aasifsaneeth-5418/achievements/w269kdjn",
-      },
     ]
   },
   {
