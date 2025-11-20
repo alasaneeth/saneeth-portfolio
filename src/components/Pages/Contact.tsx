@@ -113,7 +113,7 @@ const ContactUs: React.FC = () => {
                 href="tel:+94 740 822 580"
                 className="text-blue-600 hover:underline"
               >
-                  +94 740 822 580
+                  +971 056 835 8651
               </a>
             </li>
           </ul>

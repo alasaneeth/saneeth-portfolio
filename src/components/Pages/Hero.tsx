@@ -1,7 +1,7 @@
 import heroImage from "../../assets/images/Hero.jpg";
 import { FaGithub, FaLinkedin, FaWhatsapp } from "react-icons/fa";
-// import HackerRank from "../../assets/images/hackerRank.png"
-// import Microsoft from "../../assets/images/microsoft.png"
+import HackerRank from "../../assets/images/hackerRank.png"
+import Microsoft from "../../assets/images/microsoft.png"
 
 const Hero = () => {
   return (
@@ -13,7 +13,7 @@ const Hero = () => {
         </h1>
         <p className="text-xl md:text-2xl text-gray-700 mb-6">
           <span className="inline-block animate-typing overflow-hidden whitespace-nowrap border-r-4 border-gray-500 pr-5">
-            IBM Certified Data Scientist
+            Software Engineer
           </span>
         </p>
 
@@ -46,7 +46,7 @@ const Hero = () => {
           >
             <FaWhatsapp />
           </a>
-          {/* <a
+          <a
             href="https://www.hackerrank.com/profile/alasaneeth22"
             target="_blank"
             rel="noopener noreferrer"
@@ -59,8 +59,8 @@ const Hero = () => {
               src={HackerRank}
               alt="HackerRank"
             />
-          </a> */}
-          {/* <a
+          </a>
+          <a
             href="https://learn.microsoft.com/en-us/users/aasifsaneeth-5418/"
             target="_blank"
             rel="noopener noreferrer"
@@ -73,7 +73,7 @@ const Hero = () => {
               src={Microsoft}
               alt="Microsoft"
             />
-          </a> */}
+          </a>
         </div>
 
         {/* <div>

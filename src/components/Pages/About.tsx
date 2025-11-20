@@ -8,11 +8,33 @@ const About = () => {
           About <span className="text-indigo-600">Me</span>
         </h2>
         <p className="text-lg md:text-xl text-gray-700 leading-relaxed mb-6">
-            A highly motivated Data Scientist with a strong foundation in software engineering, 
-            specializing in transforming complex data into actionable insights and robust machine 
-            learning solutions. Proficient in the end-to-end data science lifecycle, from data 
-            wrangling and statistical analysis to model deployment and MLOps.
+          I'm <strong>Saneeth</strong>, a highly motivated Software Engineer 3  years (From Sri Lanaka)
+          of experience delivering dynamic and scalable web applications. I'm proficient in modern frontend
+          and backend technologies including <span className="text-indigo-600 font-medium">React.js</span>,
+         
+          <span className="text-indigo-600 font-medium"> ASP.Net </span>
+           and 
+          <span className="text-indigo-600 font-medium"> MSSQL</span>.
         </p>
+        <p className="text-base text-gray-600 leading-relaxed mb-4">
+          I’m adept at building RESTful APIs and Web APIs, implementing responsive UIs with Tailwind CSS and Material UI, 
+          and deploying containerized applications using Docker. I also have hands-on experience with Microsoft Azure 
+          services like Azure App Service, Azure Storage, Azure SQL Database, and Azure Monitor, as well as automating CI/CD 
+          pipelines using GitHub Actions.
+        </p>
+
+        <p className="text-base text-gray-600 leading-relaxed mb-6">
+          With a strong understanding of MVC architecture, agile methodologies, and cross-functional 
+          collaboration, I take pride in analyzing requirements, debugging complex issues, and delivering 
+          high-quality solutions aligned with business goals.
+        </p>
+
+        {/* <a
+          href="#contact"
+          className="inline-block mt-8 px-6 py-3 bg-indigo-600 text-white rounded-lg shadow hover:bg-indigo-700 transition duration-300"
+        >
+          Let's Connect
+        </a> */}
       </div>
     </section>
   );
